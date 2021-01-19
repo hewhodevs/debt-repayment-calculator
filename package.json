@@ -1,7 +1,7 @@
 {
-  "name": "debt-repayments-calculator",
+  "name": "debt-repayment-calculator",
   "version": "1.0.0",
-  "description": "A tool for calculating how much interest is billed or saved over time whilst down paying debts.",
+  "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
